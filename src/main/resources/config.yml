@@ -1,0 +1,6 @@
+types:
+  newPlayer: 60
+  join: 30
+  respawn: 30
+  teleport: 5
+  worldChanged: 10
